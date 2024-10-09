@@ -2,5 +2,5 @@
  font-family: nehegaal;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/Ylkhana/nephilim-font/main/NephilimNew-Regular.ttf) ;
 }
